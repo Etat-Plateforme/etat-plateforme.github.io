@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub de la DISIC</title>
+    <description>Un espace de partage et de collaboration</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Les 10 commandements (ou presque) de l&#39;usage d&#39;une plateforme publique</title>
+        <description>&lt;p&gt;Les règles qui suivent sont des règles de bon usage à respecter lorsqu&amp;#39;on utilise une forge logiciel publique.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;le chef de projet seul validera la publication : dans le cadre d&amp;#39;un projet de développement, seul le chef de projet est habilité à valider l&amp;#39;utilisation d&amp;#39;une forge publique pour la publication du code source. Que cet usage soit dans le cadre de développement ou dans celui de la diffusion de code source.&lt;/li&gt;
+&lt;li&gt;la licence du code source je vérifierai : s&amp;#39;assurer que la licence du code source est compatible avec la publication sur une forge publique.&lt;/li&gt;
+&lt;li&gt;dépôts privés et publics je distinguerai : certaines forges logiciel publiques permettent de créer des dépôts privés. Dans ce cas, seules les personnes invitées par un administrateur du dépôt peuvent accéder à cet espace privé. Le code ainsi mis à disposition ne doit pas être diffusé sur un espace publique ou autre sans l&amp;#39;accord formel d&amp;#39;un administrateur du dépôt privé.&lt;/li&gt;
+&lt;li&gt;mes contributions je différencierai : dans le cadre particulier de GitHub, les contributions sont propres à un utilisateur. Il convient donc de distinguer, par un moyen adapté, les contributions réalisées dans le cadre professionnel de celle qui le sont à titre personnel.&lt;/li&gt;
+&lt;li&gt;les comptes des organisations avec précaution j&amp;#39;utiliserai : les participations (contributions, commentaires ...) dans le cas d&amp;#39;un compte représentant une organisation doivent être réalisées par un représentant clairement identifié de cette organisation.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 20 Aug 2015 00:00:00 +0200</pubDate>
+        <link>/Dix-Commandements/</link>
+        <guid isPermaLink="true">/Dix-Commandements/</guid>
+      </item>
+    
+  </channel>
+</rss>
