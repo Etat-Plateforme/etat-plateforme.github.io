@@ -39,7 +39,7 @@ Il est OBLIGATOIRE dans le cas d’échanges de documents bureautiques semi-stru
 
 La **diffusion** de documents **en vue d'un partage** collaboratif ou de modifications de la part des utilisateurs doit se faire, dans la mesure des possibilités offertes par les logiciels de l’émetteur, dans les **formats ODF v1.2**.
 
-Pour diffuser un document de type texte, le format recommandé est ODT. 
+Pour diffuser un document de type texte, le format recommandé est ODT.
 
 Pour diffuser un document de type feuille de calcul, le format recommandé est ODS.
 
@@ -54,7 +54,7 @@ L'usage des formats DOCX ou PPTX dans la diffusion de documents en vue d'une mod
 ## Matrice des formats à utiliser en fonction de l'usage et des logiciels à disposition de l'émetteur
 
 | Type de suite utilisée | document texte | Présentation (sans animation) | Feuille de calcul (sans macro) | Feuille de calcul (avec macro) |
-|----------------------|-------------- |-----------------|-----------|------------------| 
+| --- | --- | --- | --- | --- |
 | Microsoft Office < = 2003 (déconseillé)  | PDF | PPT+PDF | XLS | XLS  |
 | Microsoft Office 2007 ou 2010  | ODT+PDF | ODP+PDF | ODS+XLS  | XLS |
 | Microsoft Office > = 2013 | ODT | ODP | ODS  | ODS+XLSX  |
@@ -74,12 +74,3 @@ version 2013 est totalement compatible avec la norme (en lecture et en écriture
 Le standard OOXML est conservé dans le RGI au statut « en observation ». Sa complexité, son manque
 d’ouverture (notamment dans la gouvernance de la norme) et le strict respect tardif de la norme
 par Microsoft même n’ont pas permis de réviser son statut. La version « transitionnal » de la norme n’est quant à elle pas recommandée. Pour des besoins   d’échanges   d’informations   sous   forme   de   tableaux   qui   notamment embarquerait du code, l’utilisation d’OOXML peut être une alternative. C’est toutefois une pratique à encadrer.
-
-
-
-
-
-
-
-
-
