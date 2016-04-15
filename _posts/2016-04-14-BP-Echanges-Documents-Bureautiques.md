@@ -53,7 +53,7 @@ L'usage des formats DOCX ou PPTX dans la diffusion de documents en vue d'une mod
 
 ## Matrice des formats à utiliser en fonction de l'usage et des logiciels à disposition de l'émetteur
 
-<table border="1">
+<table cellpadding="5" cellspacing="2" border="2">
   <caption>Matrice des formats des documents bureautiques</caption>
   <tr>
     <th>Type de suite utilisée</th>
