@@ -53,12 +53,14 @@ L'usage des formats DOCX ou PPTX dans la diffusion de documents en vue d'une mod
 
 ## Matrice des formats à utiliser en fonction de l'usage et des logiciels à disposition de l'émetteur
 
-| Type de suite utilisée | document texte | Présentation (sans animation) | Feuille de calcul (sans macro) | Feuille de calcul (avec macro) |
-| --- | --- | --- | --- | --- |
-| Microsoft Office < = 2003 (déconseillé)  | PDF | PPT+PDF | XLS | XLS  |
-| Microsoft Office 2007 ou 2010  | ODT+PDF | ODP+PDF | ODS+XLS  | XLS |
-| Microsoft Office > = 2013 | ODT | ODP | ODS  | ODS+XLSX  |
-| OpenOffice ou LibreOffice > = 3  | ODT | ODP | ODS | ODS |
+|---
+| Type de suite utilisée | document texte | Présentation (sans animation) | Feuille de calcul (sans macro) | Feuille de calcul (avec macro)
+|---
+| Microsoft Office < = 2003 (déconseillé)  | PDF | PPT+PDF | XLS | XLS
+| Microsoft Office 2007 ou 2010  | ODT+PDF | ODP+PDF | ODS+XLS  | XLS
+| Microsoft Office > = 2013 | ODT | ODP | ODS  | ODS+XLSX
+| OpenOffice ou LibreOffice > = 3  | ODT | ODP | ODS | ODS
+|---
 
 
 ## OOXML : Extrait du RGI v2.0
